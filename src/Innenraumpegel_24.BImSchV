@@ -1,0 +1,10 @@
+#Anhaltswerte für zumutbare Innenraumpegel in Anlehnung an 24. BImSchV 
+#Stand 09.08.2016
+
+#	Kategorie	Tags	Nachts
+1	40	30	#kombinierter Wohn und Schlafraum
+2	0	30	#Räume die überwiegend zum schlafen genutzt werden
+3	40	0	#Wohnräume
+4	40	0	#Behandlungs und Untersuchungsräume in Artzpraxen, Operationsräume, wissenschaftliche Arbeitsräume, Leseräume in Bibliotheken, Unterichtsräume
+5	45	0	#Konferenz und Vortragsräume, Büroräume, allgemeine Laborräume
+6	50	0	#Großraumbüros, Schalterräume, Druckerräume von DV-Anlagen, soweit dort ständige Arbeitsplätze vorhanden sind
